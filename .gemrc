@@ -1,0 +1,2 @@
+# Don't install documentation for gems
+gem: --no-document
